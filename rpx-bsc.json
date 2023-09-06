@@ -9,7 +9,8 @@
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/RupayX/tokenrpm/master/logorpx.png",
   "keywords": [
-    "wrpm"
+    "wrpm",
+    "inrd"
   ],
   "tokens": [
     {
@@ -19,6 +20,14 @@
         "decimals": 18,
         "chainId": 5050,
         "logoURI": "https://raw.githubusercontent.com/RupayX/tokenrpm/master/logorpx.png"
+    },
+    {
+        "name": "INRD",
+        "address": "0xDF1fc20FCB9db04B8047e263F436A1Fc8C93cc9B",
+        "symbol": "INRD",
+        "decimals": 18,
+        "chainId": 5050,
+        "logoURI": "https://raw.githubusercontent.com/RupayX/tokenrpm/master/logoinrd.png"
     }
     
   ]
